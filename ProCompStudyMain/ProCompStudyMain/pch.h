@@ -11,8 +11,12 @@
 
 #include <stdio.h>
 #include <iostream>
+#include <algorithm>
+#include <vector>
+#include <string>
 
 void TreeWalk();
+void ReconstTree();
 
 // TODO: ここでプリコンパイルするヘッダーを追加します
 

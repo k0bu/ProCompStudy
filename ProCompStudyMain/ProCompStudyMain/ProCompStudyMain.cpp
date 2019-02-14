@@ -6,8 +6,8 @@
 
 int main()
 {
-	TreeWalk();
-
+	//TreeWalk();
+	ReconstTree();
 
 
 	return 0;
