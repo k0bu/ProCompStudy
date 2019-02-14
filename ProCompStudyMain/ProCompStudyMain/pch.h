@@ -9,6 +9,11 @@
 #ifndef PCH_H
 #define PCH_H
 
+#include <stdio.h>
+#include <iostream>
+
+void TreeWalk();
+
 // TODO: ここでプリコンパイルするヘッダーを追加します
 
 #endif //PCH_H
